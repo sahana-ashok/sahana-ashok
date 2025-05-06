@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Sahana A H
+# Hi 👋, I'm Sahana Ashok
 
 💻 Aspiring Full-Stack Developer & Intern at X-Workz  
 🔎 Always learning | 🚀 Growth mindset
