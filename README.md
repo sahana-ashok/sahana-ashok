@@ -11,8 +11,6 @@
 - 💻 Focused on becoming a Java Developer  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahana-a-h-119104255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-                       sahanaah27@gmail.com
-
 
 ---
 
