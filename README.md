@@ -4,7 +4,7 @@
 💻 Aspiring Full-Stack Developer & Intern at X-Workz  
 🔎 Always learning | 🚀 Growth mindset
 
-“Progress over perfection.” 💻
+        “Progress over perfection.” 💻
 
 - 🔭 Currently learning and building cool things  
 - 🌱 Always curious to explore new tech  
