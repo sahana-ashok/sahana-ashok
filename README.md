@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Sahana Ashok
 
-💻 Aspiring Full-Stack Developer & Intern at X-Workz  
+💻 Aspiring Full-Stack Developer & Intern @ X-Workz  
 🔎 Always learning | 🚀 Growth mindset
 
         “Progress over perfection.” 💻
